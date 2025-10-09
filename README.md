@@ -23,31 +23,78 @@ For Categories
     - USBoot
     - Icarus Lite
     - Bad Apple
-    - KVS
-    - Downgrading
   - WebViews
     - Mincraft
     - Microsoft Teams
     - Test Nav
   - WiFI
     - DNS
-    - VPN
+      - OmandaDNS
+      - CauDNS
+      - BYOD
+    - VPN 
     - Get Password Tool
     - Captive Portal
-  - Sign In
+      - 
+  - Sign In Bypasses
+    - OOBESCAPE V1
+    - OOBESCAPE V2
+    - SKIOVOX - Unrestricked Browsing
+    - Guest Mode V1
+    - Guest Mode V2
+  - Playstore/google extensions Bypasses
+    - Lacros
+    - Skebstore
+    - Extension Launcher
   - Web-Based (Websites)
+    - Buypass
   - HardWare
+    - Admin Lock Remover
+    - SHARK B1TE (USB)
   - Tools
     - Ext Blockers and ID's
     - Chrome URLs
     - Boards Names
     - Chrome Extensions (Name, Description, ID)
   - Scripts, Runners, & Executors (JS/Bookmarklets)
+    - uRun
+    - Tr3nch
+    - Sh0vel
+    - uBlobeMB
+    - Penguinmod (JS extension)
+    - JS Executor
+    - Blooket GUI
+    - Gimkit GUI
+    - Kahoot GUI
+    - Prodigy GUI
+    - Quizzez GUI
+    - IXL H@CK
+    - G-Forms H@CK
+    - Chrome OS H@CK GUI
+    - Script Executor
   - Devtools
+    - RigTools
+    - HarTools
   - Crosh
+    - OP Crosh
+    - K1ll3r Sp1d3r
+    - Pollen - Policy Editor
   - Freezers
+    - LTMEAT
+    - ExtPr1nt3r
+    - ExtHang3r
+    - Light Sped Killer
+    - Sigill
+    - Dextensify
   - Chrome Flags
+    - CAUB
+  - Chrome extensions
+    - Dextensify (Remove extensions)
+    - Script Executor (Run JS or Py-Script in a page)
   - Moding Tools
+    - KVS (Kernel Version Switcher)
+    - Downgrading Version
+    - More Storage 
 
 ## Extensions Supported 
 (I use LightSpeed Classroom and Filter Agent)
@@ -57,4 +104,3 @@ For Categories
 - Securly
 - iBoss
 - Line Wize 
-
